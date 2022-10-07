@@ -4,16 +4,20 @@
 ## 🌸 Please Enjoy 🌸
 
 ### Примеры работ 👨‍💻
-![Тестовая документация](https://img.shields.io/badge/Тестовая_Документация-000000?style=for-the-badge&logo=GoogleSheets&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Коллекции_Postman-000000?style=for-the-badge&logo=Postman&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/Запросы_SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/Запросы_Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Проекты_Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Jmeter](https://img.shields.io/badge/Проекты_Jmeter-000000?style=for-the-badge&logo=ApacheJmeter&logoColor=FFFFFF)
+![Тестовая документация](https://img.shields.io/badge/Тестовая_Документация-000000?style=for-the-badge&logo=GoogleSheets&logoColor=#34A853)
+![Postman](https://img.shields.io/badge/Коллекции_Postman-000000?style=for-the-badge&logo=Postman&logoColor=#FF6C37)
+![SQL](https://img.shields.io/badge/Запросы_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#4479A1)
+![Bash](https://img.shields.io/badge/Запросы_Bash-000000?style=for-the-badge&logo=gnubash&logoColor=#4EAA25)
+![Python](https://img.shields.io/badge/Проекты_Python-000000?style=for-the-badge&logo=python&logoColor=#3776AB)
+![Jmeter](https://img.shields.io/badge/Проекты_Jmeter-000000?style=for-the-badge&logo=ApacheJmeter&logoColor=#D22128)
 
 
 ### Hard Skills 💪🏻
 
+
 ### Soft Skills 🧠
 
-### Follow me
+### Свяжитесь со мной 📧
+
+[![Telegram](https://img.shields.io/badge/@simon%5F_cookie%5F_eat-000000?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/simon_cookie_eat)
+[![Email](https://img.shields.io/badge/work.sergey@list.ru-000000?style=for-the-badge&logo=mail.ru&logoColor=ff9e00)](mailto:work.sergey@list.ru)
