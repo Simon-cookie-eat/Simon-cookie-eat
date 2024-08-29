@@ -1,7 +1,6 @@
 [![Header](https://github.com/Simon-cookie-eat/Simon-cookie-eat/blob/main/assets/Resume_header.png)](https://hh.ru/resume/70170b0eff0b32cf290039ed1f6e6b67647251)
 
-## Я начинающий QA Engineer и здесь вы можете найти примеры моих работ
-## 🌸 Please Enjoy 🌸
+## MIddle QA
 
 ### Примеры работ 👨‍💻
 [![Тестовая документация](https://img.shields.io/badge/Тестовая_Документация-000000?style=for-the-badge&logo=GoogleSheets&logoColor=#34A853)](https://drive.google.com/drive/folders/1Sk2H_TZt5eIcCZKIuQ2-j6nmtMd9i8gS?usp=sharing)
